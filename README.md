@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm OLIVIA!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=[YOUR_TAGLINE_1];[YOUR_TAGLINE_2];[YOUR_TAGLINE_3])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=CS+student+%40+the+University+of+Utah;Building+things+in+C%2B%2B%2C+C%23+%26+Java;President+of+Women+in+Computing;Looking+for+a+software+internship)](https://git.io/typing-svg)
 
 ---
 
