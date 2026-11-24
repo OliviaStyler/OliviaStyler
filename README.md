@@ -4,12 +4,12 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
 I'm a computer science student at the University of Utah with diverse interests spanning software development, UX design, AI, and the outdoors.
 
-- 🔭 Currently building SurveySays in CS3550 and looking for a software internship
-- 🧗 Rock climber
+- 🔭 Currently building a sustainability website for Salt Lake City and looking for a software internship
+- 🧗 Rock climber (and gym staff at Momentum Indoor Climbing)
 - 🏔️ Backcountry and outdoor adventure enthusiast
 - 🎨 Graphic design and UX tinkerer
 - 💼 Open to collaboration and opportunities
@@ -60,9 +60,11 @@ I'm a computer science student at the University of Utah with diverse interests 
   <img src="https://github-readme-stats.vercel.app/api?username=OliviaStyler&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliviaStyler&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=OliviaStyler&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
 </p>
+
 ---
 
 ## 🐍 CONTRIBUTION SNAKE
@@ -72,6 +74,7 @@ I'm a computer science student at the University of Utah with diverse interests 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OliviaStyler/OliviaStyler/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OliviaStyler/OliviaStyler/output/github-contribution-grid-snake.svg">
 </picture>
+
 ---
 
 ## 🛠 TECH STACK
@@ -120,11 +123,8 @@ I'm a computer science student at the University of Utah with diverse interests 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
----
 
-<p align="center">
-  <i>"[YOUR_QUOTE]"</i>
-</p>
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OliviaStyler&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
