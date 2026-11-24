@@ -8,7 +8,7 @@
 
 I'm a computer science student at the University of Utah with diverse interests spanning software development, UX design, AI, and the outdoors.
 
-- 🔭 Currently building a sustainability website for Salt Lake City and looking for a software internship
+- 🔭 Currently building SurveySays in CS3550, learning about Algorithms in CS4150, designing with people in mind in CS3540, and looking for a software internship
 - 🧗 Rock climber 
 - 🏔️ Backcountry and outdoor adventure enthusiast
 - 🎨 Graphic design and UX tinkerer
