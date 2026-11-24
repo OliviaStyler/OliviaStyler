@@ -9,7 +9,7 @@
 I'm a computer science student at the University of Utah with diverse interests spanning software development, UX design, AI, and the outdoors.
 
 - 🔭 Currently building a sustainability website for Salt Lake City and looking for a software internship
-- 🧗 Rock climber (and gym staff at Momentum Indoor Climbing)
+- 🧗 Rock climber 
 - 🏔️ Backcountry and outdoor adventure enthusiast
 - 🎨 Graphic design and UX tinkerer
 - 💼 Open to collaboration and opportunities
